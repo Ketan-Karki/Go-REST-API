@@ -44,5 +44,13 @@ Contributions are welcome! If you'd like to contribute, please:
 2. Create a new branch for your feature or bugfix.
 3. Submit a pull request with a detailed description of your changes.
 
+## Acknowledgments
+This REST API was built following along with the course by Maximilian Schwarzmüller. Thank you for the valuable insights and teachings!
+- Course: [Maximilian Schwarzmüller's Course](https://www.udemy.com/share/109Zxy3@21cP03r_vouFZInhbCu5wEJoXoTTpe381vXjde4wRnLtwgOWX3Ux4O1gX1yKSNtUQA==/)
+- GitHub: [Maximilian Schwarzmüller](https://github.com/mschwarzmueller)
+
+## Credits
+Special thanks to Maximilian Schwarzmüller for creating the course that this project is based on.
+
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
